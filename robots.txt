@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://jinelojorulu.netlify.app/sitemap.xml
